@@ -7,6 +7,6 @@ The purpose of this repo will be to provide documentation and examples of advanc
 
 2) Implement a generalized Circuit Breaker pattern as an APIM Policy
 
-3) Advanced Caching/Integration Patterns, where's an API Provider ansynchrounously pushes changes to a Cache, replacing the need for synchronous back-end calls
+3) Advanced Caching/Integration Patterns, where's an API Provider ansynchrounously pushes changes to an Azure Cache or Storage Table, replacing the need for synchronous back-end calls
 
 4) Implementation of CQRS/Microservice Patterns and integration eventing data sources such as Apache Flink
